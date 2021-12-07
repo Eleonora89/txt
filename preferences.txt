@@ -1,0 +1,5 @@
+Favorite movie: Devchata
+favorite series: "Friends
+favorite foods: baked fish
+favorite season: summer
+country:Belarus
