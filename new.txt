@@ -1,0 +1,5 @@
+name: Eleonora,                                                           
+ surname:Terenteva,                                                        
+ age: 32,                                                                     
+ pets: 1,
+ salary: "the more the better
