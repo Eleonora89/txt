@@ -1,1 +1,5 @@
- 
+ID:tutu,
+Title:goods,
+Steps to reproduction: 1. Зайти на сайт 2. Найти товар 3. Добавить в корзину 4. Оплатить товар,
+Expected result: оплата прошла и товар получен,
+Actual result:оплата прошла и товар получен 
